@@ -1,0 +1,14 @@
+npm install @capacitor/camera
+npx cap sync
+
+npm install @capacitor/geolocation
+npx cap sync
+
+npm install @capacitor/media
+npx cap sync
+
+npm install @capacitor/permissions
+npx cap sync
+
+npm install @capacitor/local-notifications
+npx cap sync
